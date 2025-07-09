@@ -1,3 +1,8 @@
+# Author Details
+
+Name : Tarun Manjunath 
+Email: tarun2m200@gmail.com
+
 # OIDC-FSD-Challenge
 
 ## Challenge 1
