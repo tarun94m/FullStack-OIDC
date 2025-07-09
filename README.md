@@ -73,7 +73,7 @@ User Experience & Flow
 
 1. What specific user journey are we targeting? (First-time registration vs. returning users)
 2. How should pseudonym generation be presented to users? (Transparent vs. behind-the-scenes)
-3 .What consent screens and privacy explanations are needed?
+3. What consent screens and privacy explanations are needed?
 
 Technical Scope
 
