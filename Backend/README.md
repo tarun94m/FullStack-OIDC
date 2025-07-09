@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 🔐 ConsentKeys Pseudonym Generator
 
