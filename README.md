@@ -71,33 +71,33 @@ Key Items to Clarify:
 
 User Experience & Flow
 
-What specific user journey are we targeting? (First-time registration vs. returning users)
-How should pseudonym generation be presented to users? (Transparent vs. behind-the-scenes)
-What consent screens and privacy explanations are needed?
+1. What specific user journey are we targeting? (First-time registration vs. returning users)
+2. How should pseudonym generation be presented to users? (Transparent vs. behind-the-scenes)
+3 .What consent screens and privacy explanations are needed?
 
 Technical Scope
 
-Which OIDC flows should we prioritize? (Authorization code, implicit, hybrid)
-What client applications need immediate support?
-Are there specific compliance requirements (GDPR, CCPA) driving this feature?
+1. Which OIDC flows should we prioritize? (Authorization code, implicit, hybrid)
+2. What client applications need immediate support?
+3. Are there specific compliance requirements (GDPR, CCPA) driving this feature?
 
 Privacy & Security Requirements
 
-What level of pseudonym isolation is required between apps?
-How do we handle user data requests or deletions?
-What audit logging is needed for compliance?
+1. What level of pseudonym isolation is required between apps?
+2. How do we handle user data requests or deletions?
+3. What audit logging is needed for compliance?
 
 Success Metrics
 
-How do we measure privacy protection effectiveness?
-What performance benchmarks are expected?
-What user adoption metrics matter most?
+1. How do we measure privacy protection effectiveness?
+2. What performance benchmarks are expected?
+3. What user adoption metrics matter most?
 
 Dependencies & Constraints
 
-Are there existing systems we must integrate with?
-What's our target timeline and resource allocation?
-Any regulatory deadlines we need to meet?
+1. Are there existing systems we must integrate with?
+2. What's our target timeline and resource allocation?
+3. Any regulatory deadlines we need to meet?
 
 Goal: Establish shared understanding of requirements before technical design begins.
 
