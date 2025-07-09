@@ -1,1 +1,1 @@
-# FullStack-OIDC
+# OIDC-FSD-Challenge
