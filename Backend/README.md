@@ -20,7 +20,7 @@ A cryptographically secure, privacy-preserving pseudonym generator designed for 
 ## 📦 Installation
 
 ````bash
-git clone https://github.com/yourusername/consentkeys-pseudonym-generator.git
+git clone [https://github.com/yourusername/consentkeys-pseudonym-generator.git](https://github.com/tarun94m/FullStack-OIDC.git)
 cd Backend
 npm install
 
